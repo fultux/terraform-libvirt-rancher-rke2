@@ -1,2 +1,2 @@
 # terraform-libvirt-rancher-rke2
-Terraform rke2 cluster deployment with Rancher. 
+Terraform rke2 cluster deployment with Rancher for KVM hypervisor. 
